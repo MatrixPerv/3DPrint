@@ -1,2 +1,2 @@
-# elegoo Neptune 3 Pro Board Firmware
-Repository for elegoo Neptune 3 Pro Board Firmware
+# elegoo Neptune 3 Pro Screen Firmware
+Repository for elegoo Neptune 3 Pro Screen Firmware
