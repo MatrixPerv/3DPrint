@@ -25,7 +25,12 @@ Repository for elegoo Neptune 3 Pro Firmware Files
 | xxxxxxxx.tft | Screen Firmware |
 | ZNP_ROBIN_NANO.bin | Motherboard Firmware |
 
-   
+### 文件描述： 
+
+| 固件命名方式|            |
+|------------|-------------------------------------|
+| xxxxxxxx.tft       |      屏幕固件          |
+| ZNP_ROBIN_NANO.bin |      主板固件           |
 
 ---    
 ### Preparation steps:    
