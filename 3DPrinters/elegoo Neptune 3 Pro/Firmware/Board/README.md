@@ -1,2 +1,0 @@
-# elegoo Neptune 3 Pro Board Firmware
-Repository for elegoo Neptune 3 Pro Board Firmware
