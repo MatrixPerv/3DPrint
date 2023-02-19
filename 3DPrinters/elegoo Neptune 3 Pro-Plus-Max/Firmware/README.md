@@ -18,13 +18,6 @@ Repository for elegoo Neptune 3 Pro Firmware Files
 [Update Log](https://github.com/NARUTOfzr/Neptune_3_Pro_Plus_Max/blob/main/Update%20log.md)
 
 ---    
-### File Description:
-
-| Firmware naming method| |
-|------------|------------------------------------ -|
-| xxxxxxxx.tft | Screen Firmware |
-| ZNP_ROBIN_NANO.bin | Motherboard Firmware |
-
 ### File Description: 
 
 | Firmware naming method|            |
