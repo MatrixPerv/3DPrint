@@ -9,11 +9,11 @@ Repository for elegoo Neptune 3 Pro Firmware Files
 # **_Neptune3Pro/Plus/Max Firmware Update Instructions_**
 
 ### 固件版本兼容性：    
-| 屏幕版本      |      主板版本            |          说明           |
+| Screen Version | Motherboard Version | Description |
 |------------|-------------------------------------|------------|
-| 1.4       |      1.x.4 - 1.x.5.1a          |   历史版本      |
-| V1.4.1       |      1.x.5.1a          |   Release版本  |
-| 1.5-Beta  |      1.x.5.2 - 1.x.5.3a           |  Beta版本   |
+| 1.4       |      1.x.4 - 1.x.5.1a          |   Version History      |
+| V1.4.1       |      1.x.5.1a          |   Release version  |
+| 1.5-Beta  |      1.x.5.2 - 1.x.5.3a           |  Beta version   |
 
 ### Firmware Version Compatibility:    
 | Screen Version | Motherboard Version | Description |
